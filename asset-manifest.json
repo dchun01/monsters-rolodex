@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monsters-rolodex/static/css/main.bbb9d9c9.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.24ce578f.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.24ce578f.chunk.js.map",
+    "main.js": "/monsters-rolodex/static/js/main.65f299fe.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.65f299fe.chunk.js.map",
     "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.eea62ddf.js",
     "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.eea62ddf.js.map",
     "static/js/2.7aaef059.chunk.js": "/monsters-rolodex/static/js/2.7aaef059.chunk.js",
     "static/js/2.7aaef059.chunk.js.map": "/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
     "index.html": "/monsters-rolodex/index.html",
-    "precache-manifest.c8f481783dfcbc963d84850f02acc083.js": "/monsters-rolodex/precache-manifest.c8f481783dfcbc963d84850f02acc083.js",
+    "precache-manifest.013d389ee4bf57b059d9f29a7f95aae8.js": "/monsters-rolodex/precache-manifest.013d389ee4bf57b059d9f29a7f95aae8.js",
     "service-worker.js": "/monsters-rolodex/service-worker.js",
     "static/css/main.bbb9d9c9.chunk.css.map": "/monsters-rolodex/static/css/main.bbb9d9c9.chunk.css.map",
     "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eea62ddf.js",
     "static/js/2.7aaef059.chunk.js",
     "static/css/main.bbb9d9c9.chunk.css",
-    "static/js/main.24ce578f.chunk.js"
+    "static/js/main.65f299fe.chunk.js"
   ]
 }
